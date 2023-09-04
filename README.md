@@ -7,4 +7,5 @@ Currently the script only works for python/pip and javascript/node projects and 
 Just run two commands to make it work 
 
 sudo chmod script.sh 777
+
 sudo ./script.sh || sudo bash script.sh
